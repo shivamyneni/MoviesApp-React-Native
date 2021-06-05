@@ -22,11 +22,11 @@
 
 ### Languages and Tools Used:
 
-<img align="left" alt="Visual Studio Code" width="22px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="JavaScript" width="22px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img align="left" alt="React-Native" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="GitHub" width="22px" src="https://img.icons8.com/material-rounded/24/000000/github.png" />
+<img align="left" alt="Visual Studio Code" width="22px" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png" />
+<img align="left" alt="JavaScript" width="22px" src="https://img.icons8.com/color/50/000000/javascript.png" />
+<img align="left" alt="React-Native" width="22px" src="https://img.icons8.com/color/50/000000/react-native.png" />
+<img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/50/000000/git.png" />
+<img align="left" alt="GitHub" width="22px" src="https://img.icons8.com/material-rounded/50/000000/github.png" />
 
 <br />
 <br />
