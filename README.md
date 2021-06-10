@@ -12,6 +12,7 @@
 -  
 ![Screenshot_2021-06-04-11-10-59-925_host exp exponent (3)](https://user-images.githubusercontent.com/59661196/120757267-f3d5b000-c52d-11eb-91cf-602ab17d963d.jpg) ![Screenshot_2021-06-04-11-11-11-279_host exp exponent](https://user-images.githubusercontent.com/59661196/120757567-55961a00-c52e-11eb-8d1d-a5b9e9d63c12.jpg)
 
+- This app uses popcorn time api to fetch the movies list.Movie Tab shows the rating,genre and description of movie it also has the functionality of copying the download link to the clipboard. 
 
 ### Connect with me:
 
